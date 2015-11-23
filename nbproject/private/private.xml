@@ -2,16 +2,6 @@
 <project-private xmlns="http://www.netbeans.org/ns/project-private/1">
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
-        <group>
-            <file>file:/D:/xampp/htdocs/base-aerea/app/views/layouts/login.blade.php</file>
-            <file>file:/D:/xampp/htdocs/base-aerea/css/main.css</file>
-            <file>file:/D:/xampp/htdocs/base-aerea/app/config/app.php</file>
-            <file>file:/D:/xampp/htdocs/base-aerea/pages/index.html</file>
-            <file>file:/D:/xampp/htdocs/base-aerea/composer.json</file>
-            <file>file:/D:/xampp/htdocs/base-aerea/app/controllers/AdminController.php</file>
-            <file>file:/D:/xampp/htdocs/base-aerea/app/views/error/default.blade.php</file>
-            <file>file:/D:/xampp/htdocs/base-aerea/app/start/global.php</file>
-            <file>file:/D:/xampp/htdocs/base-aerea/app/routes.php</file>
-        </group>
+        <group/>
     </open-files>
 </project-private>
