@@ -37,7 +37,7 @@ class AdminController extends BaseController {
 
 	public function getLogin()
 	{
-		return View::make('login')->with('titulo', $this->_titulo);
+		return View::make('login');
 	}
 	
 	public function getLogOut()
